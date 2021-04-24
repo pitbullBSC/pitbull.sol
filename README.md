@@ -16,3 +16,14 @@ Tokenomics:
 2% fee redistributed to all holders, including black hole
 
 2% fee on sell trades added to the liquidity pool by the smart contract & locked forever
+
+Socials
+Website: http://pitbull.community
+Linktree: https://linktr.ee/afellowPITBULL
+Telegram: https://t.me/Pitbull_BSC
+Twitter: https://twitter.com/BscPitbull
+Medium: https://medium.com/pit-bsc-community
+Discord: https://discord.com/invite/8t5t3gyFnd
+Reddit: https://www.reddit.com/r/pitbulltoken
+Twitch: https://www.twitch.tv/pitbullbsc
+CoinMarketCap: https://coinmarketcap.com/currencies/pitbull
