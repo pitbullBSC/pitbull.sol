@@ -11,7 +11,7 @@ Tokenomics:
 
 * 50% burnt to the black hole, which continually gets bigger from the fees
 
-* 500,000,000,000,000 max limit of Pit per trade
+* 500,000,000,000,000 max limit of Pit per trades
 
 * 2% fee redistributed to all holders, including black hole
 
