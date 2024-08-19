@@ -669,7 +669,13 @@ interface IUniswapV2Router01 {
 
 
 
-// pragma solidity >=0.6.2;
+// pragma solidity >=0.6.2; 
+// Compiler version pragma for Solidity. This ensures that the contract will be compiled with Solidity version 0.6.2 or newer.
+// IUniswapV2Router02 interface inherits from IUniswapV2Router01
+
+
+// Removes liquidity from a Uniswap pair while supporting tokens that charge fees on transfers.
+    // Returns the amount of ETH that is received after the liquidity is removed.
 
 interface IUniswapV2Router02 is IUniswapV2Router01 {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
